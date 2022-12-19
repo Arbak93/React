@@ -6,7 +6,7 @@ class Header extends Component{
 
     render(){
         return <div>
-        <p>helllo world arbak kareyan</p>
+        <p>helllo world </p>
         </div>
     }
 }
